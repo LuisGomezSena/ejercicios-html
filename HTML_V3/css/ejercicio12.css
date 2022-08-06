@@ -1,0 +1,33 @@
+#container {
+    background-color: #73E2F5;
+    width: 1024px;
+    height: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 2px;
+}
+#titulo {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    color: #A86E3E;
+}
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: #A86E3E;
+}
+.reproductor {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: #F55400;
+}
+.texto {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    color: #F55400;
+}
+img{
+    margin-left: 10px;
+    height: 125px;
+    width: 125px;
+}

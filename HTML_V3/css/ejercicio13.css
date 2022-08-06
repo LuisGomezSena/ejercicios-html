@@ -1,0 +1,23 @@
+#container {
+    background-color: #73E2F5;
+    width: 1024px;
+    height: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 2px;
+}
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: #A86E3E;
+}
+input {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: #F55400;
+}
+form {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    color: #F55400;
+}
