@@ -10,7 +10,7 @@
     VERSION: 3.0.0
     Fecha de modificacion: 5/08/2022 Luis Gomez
     
-En este repositorio se encontrarn 15 archivos HTML dados por el instructor de ficha, se divide por versiones, cada carpeta es una version 
+En este repositorio se encontran 15 archivos HTML dados por el instructor de ficha, se divide por versiones, cada carpeta es una version 
 etiquetas usadas: a, h1, h2, h3, p, form, fieldset, del, em, table, ul, li, fd, fh, div
 
 ## Notas de versiones:
